@@ -64,7 +64,8 @@ module.exports = (agenda) ->
               snetwork = JSON.stringify(network)
 
               # Push data using API
-              s = new StringStream(snetwork)
+              s = new StringStream(snetwork) # TODO that doesn't work!
+              # fs.createReadStream('some.json') # TODO while this does, no idea why :/
               s.pipe (request.post 'http://localhost:3000/public_bikes?api_key=' + NEXTBIKE_API_KEY, (error, resp, body) ->
                 if error || resp.statusCode < 200 || resp.statusCode > 300
                   status[network.alias] = 'err' # statusCode
