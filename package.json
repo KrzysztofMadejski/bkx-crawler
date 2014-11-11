@@ -1,0 +1,30 @@
+{
+  "name": "bkx-crawler",
+  "version": "0.1.0",
+  "description": "Crawling the Internet in search of yummy bikey datasets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Krzysztof Madejski (https://github.com/KrzysztofMadejski)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrzysztofMadejski/bkx-crawler.git"
+  },
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "agenda": "^0.6.24",
+    "agenda-ui": "0.0.6",
+    "coffee-script": "^1.8.0",
+    "express": "^4.10.1",
+    "ldjson-stream": "^1.2.1",
+    "request": "^2.47.0",
+    "require-all": "0.0.8",
+    "xml-json": "^2.0.2",
+    "xml-nodes": "^0.1.4",
+    "xml-objects": "0.0.1"
+  },
+  "config": {
+    "mongo_url": "localhost:27017/bkxcrawler"
+  }
+}
