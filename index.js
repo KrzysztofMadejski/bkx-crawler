@@ -18,7 +18,7 @@ process.on('SIGTERM', graceful);
 process.on('SIGINT' , graceful);
 
 // Load all crawlers
-var crawlers = require('require-all')({ dirname: __dirname + '/crawlers', filter: /(.+)\.(js(on)|coffee)?$/});
+var crawlers = require('require-all')({ dirname: __dirname + '/crawlers', filter: /(.+)\.(js)?$/});
 for(crawler in crawlers) {
     console.log('Loading crawler ' + crawler + '..');
     crawlers[crawler](agenda);

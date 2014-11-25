@@ -9,6 +9,7 @@ module.exports = (agenda) ->
   process = (job, done) ->
     status = {}
     all_processed = false
+    queued = 0
     check_if_done = ->
       proc = 0
       err = 0
@@ -18,30 +19,39 @@ module.exports = (agenda) ->
         err++ if status[alias] == 'err'
         ok++ if status[alias] == 'ok'
       console.log 'P' + all_processed + ' ' + proc + '-' + err + '-' + ok
-      if !all_processed
-        return false
-      true
+
+      if all_processed and err + ok == queued
+        console.log 'Processed!'
+        done()
+        return true
+      false
+
 
     # fs.createReadStream(__dirname + '/../test/public-bikes-nextbike-feed-20141108T1727.xml') for testing with no-internet
     request 'https://nextbike.net/maps/nextbike-live.xml'
     .pipe xmlnodes 'country'
       .pipe xmlobjects {explicitRoot: false, explicitArray: false, mergeAttrs: true}
         .on 'data', (country) ->
-          # console.log 'Country ' + country.name
+          country.city = [country.city] if not Array.isArray country.city
+
           # network per city
           for city in country.city
             do (city) ->
+              alias = 'nextbike-' + city.uid
+              console.log 'Processing ' + alias + '[' + country.name + ' - ' + city.name + ']'
+
               network = {
                 name: country.name,
-                alias: 'nextbike-' + city.uid,
+                alias: alias,
                 countryCode: country.country.toLowerCase(),
               # hotline: country.hotline,
                 cityName: city.name,
-                cityLatitude: city.lat,
-                cityLongitude: city.lng,
+                cityLatitude: parseFloat(city.lat),
+                cityLongitude: parseFloat(city.lng),
               }
-              status[network.alias] = 'processing'
-              console.log network.alias
+
+              status[alias] = 'processing'
+              queued++
 
               network.stations = {
                 type: "FeatureCollection",
@@ -51,31 +61,38 @@ module.exports = (agenda) ->
                     geometry: {
                       type: 'Point',
                       coordinates: [parseFloat(place.lng), parseFloat(place.lat)]
-                      properties: {
+                    },
+                    properties: {
                         uniqueId: place.uid,
                         stationId: place.number,
                         stationName: place.name,
-                        totalDocks: place.bike_racks,
+                        totalDocks: parseInt(place.bike_racks),
                       #canParkIfNoDocksAvailable: true
-                      }
                     }
                   }
               }
               snetwork = JSON.stringify(network)
 
               # Push data using API
-              s = new StringStream(snetwork) # TODO that doesn't work!
-              # fs.createReadStream('some.json') # TODO while this does, no idea why :/
-              s.pipe (request.post 'http://localhost:3000/public_bikes?api_key=' + NEXTBIKE_API_KEY, (error, resp, body) ->
-                if error || resp.statusCode < 200 || resp.statusCode > 300
-                  status[network.alias] = 'err' # statusCode
-                  console.log resp.statusCode
-                  console.log body
+              s = new StringStream(snetwork)
 
-                else
-                  status[network.alias] = 'ok'
+              s.pipe (request.post {
+                uri: 'http://localhost:3000/public_bikes?api_key=' + NEXTBIKE_API_KEY
+                headers: {
+                  'Content-Type': 'application/json'
+                }}, (error, resp, body) ->
+                  if error || !resp || resp.statusCode < 200 || resp.statusCode > 300
+                    status[network.alias] = 'err' # statusCode
+                    console.log 'ERR on ' + alias + ' ' + network.name + ' ' + network.cityName
+                    if body
+                      console.log body
+                    else
+                      console.log error.code #ie. ECONNREFUSED
 
-                check_if_done()
+                  else
+                    status[network.alias] = 'ok'
+
+                  check_if_done()
               )
 
             # TODO stream cities instead of in-memory?
