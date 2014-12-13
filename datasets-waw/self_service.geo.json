@@ -1,0 +1,670 @@
+{"type": "FeatureCollection", "features": [
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAS",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500518, 5789413]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "róg Królewskiej i Marszałkowskiej",
+            "adres": "ul. Marszałkowska 142",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAE",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500547, 5786139]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Szkoła Główna Handlowa",
+            "adres": "al. Niepodległości 162",
+            "dzielnica": "Mokotów",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAZ",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500553, 5790011]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Senatorska 27",
+            "adres": "ul. Senatorska 27",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAC",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500686, 5788846]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "DT Junior",
+            "adres": "ul. Marszałkowska",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAm",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7501601, 5789925]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Biblioteka Uniwersytetu Warszawskiego",
+            "adres": "ul. Dobra 56/66",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAB",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7501675, 5781637]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Dom Kultury Służew",
+            "adres": "ul. Bacha 15",
+            "dzielnica": "Mokotów",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAA",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7501696, 5783000]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Wilanowska",
+            "adres": "al. Wilanowska",
+            "dzielnica": "Mokotów",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAF",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7501887, 5780949]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Ursynów",
+            "adres": "al. KEN",
+            "dzielnica": "Ursynów",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAI",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7502172, 5790788]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Praga Północ",
+            "adres": "ul. Kłopotowskiego 15",
+            "dzielnica": "Praga Północ",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAY",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7502605.6394, 5791268.7267]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "CH Warszawa Wileńska",
+            "adres": "ul. Targowa 72",
+            "dzielnica": "Praga Północ",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAU",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7503127.4538, 5779487.8297]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "UD Ursynów",
+            "adres": "al. Komisji Edukacji Narodowej 61",
+            "dzielnica": "Ursynów",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAQ",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7503320, 5795344]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Targówek",
+            "adres": "ul. Kondratowicza 20",
+            "dzielnica": "Targówek",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAG",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7504673, 5790379]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Praga Południe",
+            "adres": "ul. Grochowska 274",
+            "dzielnica": "Praga Południe",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAR",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7505563, 5796987]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "IKEA Targówek",
+            "adres": "ul. Malborska 51",
+            "dzielnica": "Targówek",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAD",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7510196.8793, 5787722.9413]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Wawer",
+            "adres": "rejon skrzyżowania ulicy Widocznej i Nagietkowej",
+            "dzielnica": "Wawer",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAP",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7510956.1265, 5786679.441]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Anin",
+            "adres": "rejon skrzyżowania ul. Szpotańskiego i VIII Poprzecznej",
+            "dzielnica": "Wawer",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAM",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7511066, 5791753]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Rembertów",
+            "adres": "ul. gen. A. Chruściela \\\"Montera\\\" 28",
+            "dzielnica": "Rembertów",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAV",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7511689, 5785840]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Wawer",
+            "adres": "ul. Żegańska 1",
+            "dzielnica": "Wawer",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAa",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7515250, 5790300]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Wesoła",
+            "adres": "ul. 1. Praskiego Pułku 33",
+            "dzielnica": "Wesoła",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAJ",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7491058, 5784209]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Ursus Niedźwiadek",
+            "adres": "ul. Orląt Lwowskich 45",
+            "dzielnica": "Ursus",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAj",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7492755, 5785219]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Ursus",
+            "adres": "pl. Czerwca 1976 r. 1",
+            "dzielnica": "Ursus",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7494122, 5789474]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Bemowo",
+            "adres": "ul. Powstańców Śląskich 70",
+            "dzielnica": "Bemowo",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAK",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7494405, 5789695]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Art.Bem",
+            "adres": "ul. Górczewska 201",
+            "dzielnica": "Bemowo",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAW",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7494433.5786, 5797712.0325]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Kampus UKSW",
+            "adres": "ul. Wóycickiego 1/3",
+            "dzielnica": "Bielany",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAH",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7495128, 5795328]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Młociny",
+            "adres": "Węzeł Młociny",
+            "dzielnica": "Bielany",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAb",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7495198.5246, 5789765.6004]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "CH Wola Park",
+            "adres": "ul. Górczewska 124",
+            "dzielnica": "Wola",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAT",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7496088, 5782363]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "P+R Al. Krakowska",
+            "adres": "al. Krakowska",
+            "dzielnica": "Włochy",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAh",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7497232.3203, 5784297.8423]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "UD Włochy",
+            "adres": "al. Krakowska 257",
+            "dzielnica": "Włochy",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAO",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7498044, 5798621]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Urząd Dzielnicy Białołęka",
+            "adres": "ul. Modlińska 197",
+            "dzielnica": "Białołeka",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAL",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7498090, 5793116]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Hala Marymoncka",
+            "adres": "przy wyjściu z metra Marymont",
+            "dzielnica": "Żoliborz",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAX",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7498255, 5787512]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Eurocentrum Office Complex",
+            "adres": "Al. Jerozolimskie 134",
+            "dzielnica": "Ochota",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAl",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7498931, 5791506]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "CH Arkadia",
+            "adres": "CH Arkadia, garaż D30",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAc",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7499304, 5786994]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Krajowa Szkoła Administracji Publicznej",
+            "adres": "ul. Wawelska 56",
+            "dzielnica": "Ochota",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAe",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7499358, 5788986]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Zarząd Transportu Miejskiego",
+            "adres": "ul. Żelazna 61",
+            "dzielnica": "Wola",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAf",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7499853, 5790942]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Klubokawiarnia PaństwoMiasto",
+            "adres": "ul. Andersa 29",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAg",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500094, 5789959]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "Ratusz",
+            "adres": "pl. Bankowy 3/5",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "mała",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAi",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500197, 5782833]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "CH Galeria Mokotów",
+            "adres": "ul. Wołoska 12, główne wejście",
+            "dzielnica": "Mokotów",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAd",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500361, 5782879]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "CH Galeria Mokotów",
+            "adres": "ul. Wołoska 12, parking rowerowy w garażu",
+            "dzielnica": "Mokotów",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "AABRg3AAFAABKddAAN",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7500383, 5788400]
+        },
+        "properties": {
+            "gtype": "2001",
+            "opis": "róg E. Plater i Al. Jerozolimskich",
+            "adres": "wyjście z przejścia podziemnego",
+            "dzielnica": "Śródmieście",
+            "typ_stacji": "duża",
+            "www": "www.ibombo.com",
+            "aktualno___danych": "listopad 2014"
+        }
+    }
+], "crs": {
+    "type": "name",
+    "properties": {
+        "name": "urn:ogc:def:crs:EPSG:2178"
+    }
+}}

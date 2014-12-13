@@ -1,0 +1,392 @@
+{"foiarray": [
+    {
+        id: "AABRg3AAFAABKddAAS",
+        name: "Opis: róg Królewskiej i Marszałkowskiej\nAdres: ul. Marszałkowska 142\nDzielnica: Śródmieście\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png?refresh=6814090307437804266",
+        x: 7500518,
+        y: 5789413,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAE",
+        name: "Opis: Szkoła Główna Handlowa\nAdres: al. Niepodległości 162\nDzielnica: Mokotów\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500547,
+        y: 5786139,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAZ",
+        name: "Opis: Senatorska 27\nAdres: ul. Senatorska 27\nDzielnica: Śródmieście\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500553,
+        y: 5790011,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAC",
+        name: "Opis: DT Junior\nAdres: ul. Marszałkowska\nDzielnica: Śródmieście\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500686,
+        y: 5788846,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAm",
+        name: "Opis: Biblioteka Uniwersytetu Warszawskiego\nAdres: ul. Dobra 56/66\nDzielnica: Śródmieście\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7501601,
+        y: 5789925,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAB",
+        name: "Opis: Dom Kultury Służew\nAdres: ul. Bacha 15\nDzielnica: Mokotów\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7501675,
+        y: 5781637,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAA",
+        name: "Opis: P+R Wilanowska\nAdres: al. Wilanowska\nDzielnica: Mokotów\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7501696,
+        y: 5783000,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAF",
+        name: "Opis: P+R Ursynów\nAdres: al. KEN\nDzielnica: Ursynów\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7501887,
+        y: 5780949,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAI",
+        name: "Opis: Urząd Dzielnicy Praga Północ\nAdres: ul. Kłopotowskiego 15\nDzielnica: Praga Północ\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7502172,
+        y: 5790788,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAY",
+        name: "Opis: CH Warszawa Wileńska\nAdres: ul. Targowa 72\nDzielnica: Praga Północ\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7502605.6394,
+        y: 5791268.7267,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAU",
+        name: "Opis: UD Ursynów\nAdres: al. Komisji Edukacji Narodowej 61\nDzielnica: Ursynów\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7503127.4538,
+        y: 5779487.8297,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAQ",
+        name: "Opis: Urząd Dzielnicy Targówek\nAdres: ul. Kondratowicza 20\nDzielnica: Targówek\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7503320,
+        y: 5795344,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAG",
+        name: "Opis: Urząd Dzielnicy Praga Południe\nAdres: ul. Grochowska 274\nDzielnica: Praga Południe\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7504673,
+        y: 5790379,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAR",
+        name: "Opis: IKEA Targówek\nAdres: ul. Malborska 51\nDzielnica: Targówek\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7505563,
+        y: 5796987,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAD",
+        name: "Opis: P+R Wawer\nAdres: rejon skrzyżowania ulicy Widocznej i Nagietkowej\nDzielnica: Wawer\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7510196.8793,
+        y: 5787722.9413,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAP",
+        name: "Opis: P+R Anin\nAdres: rejon skrzyżowania ul. Szpotańskiego i VIII Poprzecznej\nDzielnica: Wawer\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7510956.1265,
+        y: 5786679.441,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAM",
+        name: "Opis: Urząd Dzielnicy Rembertów\nAdres: ul. gen. A. Chruściela \"Montera\" 28\nDzielnica: Rembertów\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7511066,
+        y: 5791753,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAV",
+        name: "Opis: Urząd Dzielnicy Wawer\nAdres: ul. Żegańska 1\nDzielnica: Wawer\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7511689,
+        y: 5785840,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAa",
+        name: "Opis: Urząd Dzielnicy Wesoła\nAdres: ul. 1. Praskiego Pułku 33\nDzielnica: Wesoła\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7515250,
+        y: 5790300,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAJ",
+        name: "Opis: P+R Ursus Niedźwiadek\nAdres: ul. Orląt Lwowskich 45\nDzielnica: Ursus\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7491058,
+        y: 5784209,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAj",
+        name: "Opis: Urząd Dzielnicy Ursus\nAdres: pl. Czerwca 1976 r. 1\nDzielnica: Ursus\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7492755,
+        y: 5785219,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAk",
+        name: "Opis: Urząd Dzielnicy Bemowo\nAdres: ul. Powstańców Śląskich 70\nDzielnica: Bemowo\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7494122,
+        y: 5789474,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAK",
+        name: "Opis: Art.Bem\nAdres: ul. Górczewska 201\nDzielnica: Bemowo\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7494405,
+        y: 5789695,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAW",
+        name: "Opis: Kampus UKSW\nAdres: ul. Wóycickiego 1/3\nDzielnica: Bielany\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7494433.5786,
+        y: 5797712.0325,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAH",
+        name: "Opis: P+R Młociny\nAdres: Węzeł Młociny\nDzielnica: Bielany\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7495128,
+        y: 5795328,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAb",
+        name: "Opis: CH Wola Park\nAdres: ul. Górczewska 124\nDzielnica: Wola\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7495198.5246,
+        y: 5789765.6004,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAT",
+        name: "Opis: P+R Al. Krakowska\nAdres: al. Krakowska\nDzielnica: Włochy\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7496088,
+        y: 5782363,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAh",
+        name: "Opis: UD Włochy\nAdres: al. Krakowska 257\nDzielnica: Włochy\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7497232.3203,
+        y: 5784297.8423,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAO",
+        name: "Opis: Urząd Dzielnicy Białołęka\nAdres: ul. Modlińska 197\nDzielnica: Białołeka\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7498044,
+        y: 5798621,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAL",
+        name: "Opis: Hala Marymoncka\nAdres: przy wyjściu z metra Marymont\nDzielnica: Żoliborz\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7498090,
+        y: 5793116,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAX",
+        name: "Opis: Eurocentrum Office Complex\nAdres: Al. Jerozolimskie 134\nDzielnica: Ochota\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7498255,
+        y: 5787512,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAl",
+        name: "Opis: CH Arkadia\nAdres: CH Arkadia, garaż D30\nDzielnica: Śródmieście\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7498931,
+        y: 5791506,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAc",
+        name: "Opis: Krajowa Szkoła Administracji Publicznej\nAdres: ul. Wawelska 56\nDzielnica: Ochota\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7499304,
+        y: 5786994,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAe",
+        name: "Opis: Zarząd Transportu Miejskiego\nAdres: ul. Żelazna 61\nDzielnica: Wola\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7499358,
+        y: 5788986,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAf",
+        name: "Opis: Klubokawiarnia PaństwoMiasto\nAdres: ul. Andersa 29\nDzielnica: Śródmieście\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7499853,
+        y: 5790942,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAg",
+        name: "Opis: Ratusz\nAdres: pl. Bankowy 3/5\nDzielnica: Śródmieście\nTyp stacji: mała\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500094,
+        y: 5789959,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAi",
+        name: "Opis: CH Galeria Mokotów\nAdres: ul. Wołoska 12, główne wejście\nDzielnica: Mokotów\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500197,
+        y: 5782833,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAd",
+        name: "Opis: CH Galeria Mokotów\nAdres: ul. Wołoska 12, parking rowerowy w garażu\nDzielnica: Mokotów\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500361,
+        y: 5782879,
+        width: 20,
+        height: 23
+    },
+    {
+        id: "AABRg3AAFAABKddAAN",
+        name: "Opis: róg E. Plater i Al. Jerozolimskich\nAdres: wyjście z przejścia podziemnego\nDzielnica: Śródmieście\nTyp stacji: duża\nWWW: www.ibombo.com\nAktualność danych: listopad 2014",
+        gtype: "2001",
+        imgurl: "http://mapa.um.warszawa.pl/mvimages/fig/110_fig_2547323_S1C_20_23.png",
+        x: 7500383,
+        y: 5788400,
+        width: 20,
+        height: 23
+    }
+], attrnames: null, themeMBR: [7491058.000000001, 5779487.8297, 7515250.0, 5798621.000000001], isWholeImg: false}
