@@ -13,10 +13,10 @@
   },
   "license": "AGPL-3.0",
   "dependencies": {
+    "JSONStream": "^0.10.0",
     "agenda": "^0.6.24",
     "agenda-ui": "0.0.6",
     "coffee-script": "^1.8.0",
-    "dirty-json": "0.0.3",
     "express": "^4.10.1",
     "ldjson-stream": "^1.2.1",
     "request": "^2.47.0",
